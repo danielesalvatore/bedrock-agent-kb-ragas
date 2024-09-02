@@ -1,0 +1,16 @@
+aws-cdk-lib==2.154.1
+aws-cdk.lambda-layer-kubectl-v29
+boto3
+constructs
+flake8
+gitpython
+pylint
+pytest
+pyyaml
+requests
+semantic-version
+cdk-nag
+ragas
+unstructured[pdf]
+
+langchain_aws
